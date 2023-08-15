@@ -11,7 +11,11 @@ The server is currently in a Closed Beta! If you would like to join the tester t
 ### Credits
 
 Idea - Rusty
+
 Developers - Skye, Rusty, Frog, Zeph, Matrix
+
 Game Designers - Cloudy, Vanilla
+
 Builders - Vanilla
+
 Owner of Astrofox - Skye
