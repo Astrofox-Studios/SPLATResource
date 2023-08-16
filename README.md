@@ -1,6 +1,6 @@
 ![SplatShot Logo](https://github.com/Astrofox-Studios/SPLATResource/blob/main/assets/splatshot_title.png)
 
-The Pack for SplatShot!
+The Pack for SplatShot! If you use any of the models, textures or sounds in this pack you **HAVE** to reach out to @arctic_foxxyt on iscord or atleast give credit of some form!
 
 ![last commit](https://img.shields.io/github/last-commit/Astrofox-Studios/SPLATResource?style=for-the-badge) ![virsion](https://img.shields.io/badge/Minecraft-1.20.1-8403fc?style=for-the-badge) 
 
